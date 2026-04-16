@@ -41,8 +41,8 @@ Passionné par les réseaux, la cybersécurité et le développement. Actuelleme
 |--------|-------------|------|
 | [BookShelf](https://github.com/Louiscvo/BookShelf) | Application de gestion de bibliothèque | C# |
 | [auto-form-filler](https://github.com/Louiscvo/auto-form-filler) | Automatisation de formulaires web | Python |
-| [gtnh-guide](https://github.com/Louiscvo/gtnh-guide) | Guide interactif GregTech New Horizons | JavaScript |
 | [free-city](https://github.com/Louiscvo/free-city) | Effet visuel Unity inspiré de Free Guy | C# |
+| [musculs](https://github.com/Louiscvo/musculs) | Suivi de programme musculation | JavaScript |
 
 ---
 

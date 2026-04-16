@@ -1,24 +1,26 @@
-# Salut, moi c'est Louis 👋
+# Louis Chavouet
 
 **Étudiant en BUT Réseaux & Télécommunications** | Parcours Cybersécurité
-📍 Mont-de-Marsan, France
+Mont-de-Marsan, France
 
 ---
 
-## 🎯 À propos
+## À propos
 
-Passionné par les réseaux, la cybersécurité et le développement, je suis actuellement en première année de BUT R&T. J'aime créer des projets concrets qui mêlent infrastructure et code.
+Passionné par les réseaux, la cybersécurité et le développement. Actuellement en première année de BUT R&T, je crée des projets concrets mêlant infrastructure et code.
 
 ---
 
-## 🛠️ Compétences
+## Compétences
 
 **Réseaux & Systèmes**
+
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
 
 **Développement**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -26,39 +28,33 @@ Passionné par les réseaux, la cybersécurité et le développement, je suis ac
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Outils**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📂 Projets
+## Projets
 
 | Projet | Description | Tech |
 |--------|-------------|------|
-| [**BookShelf**](https://github.com/Louiscvo/BookShelf) | Application de gestion de bibliothèque | C# |
-| [**auto-form-filler**](https://github.com/Louiscvo/auto-form-filler) | Automatisation de formulaires web | JavaScript |
-| [**gtnh-guide**](https://github.com/Louiscvo/gtnh-guide) | Guide interactif GregTech New Horizons | JavaScript |
-| [**musculs**](https://github.com/Louiscvo/musculs) | Application de suivi musculation | JavaScript |
+| [BookShelf](https://github.com/Louiscvo/BookShelf) | Application de gestion de bibliothèque | C# |
+| [auto-form-filler](https://github.com/Louiscvo/auto-form-filler) | Automatisation de formulaires web | Python |
+| [gtnh-guide](https://github.com/Louiscvo/gtnh-guide) | Guide interactif GregTech New Horizons | JavaScript |
+| [free-city](https://github.com/Louiscvo/free-city) | Effet visuel Unity inspiré de Free Guy | C# |
 
 ---
 
-## 📊 Stats
+## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Louiscvo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louiscvo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Louiscvo&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louiscvo&layout=compact&theme=default&hide_border=true" alt="Top Langs" height="165"/>
 </p>
 
 ---
 
-## 📫 Contact
+## Contact
 
 [![Email](https://img.shields.io/badge/Email-louis.chavouet@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:louis.chavouet@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Louis_Chavouet-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Louiscvo&color=blue&style=flat" alt="Profile views"/>
-</p>

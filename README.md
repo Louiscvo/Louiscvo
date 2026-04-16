@@ -40,7 +40,6 @@ Passionné par les réseaux, la cybersécurité et le développement, je suis ac
 | [**auto-form-filler**](https://github.com/Louiscvo/auto-form-filler) | Automatisation de formulaires web | JavaScript |
 | [**gtnh-guide**](https://github.com/Louiscvo/gtnh-guide) | Guide interactif GregTech New Horizons | JavaScript |
 | [**musculs**](https://github.com/Louiscvo/musculs) | Application de suivi musculation | JavaScript |
-| [**mur-vegetal**](https://github.com/Louiscvo/mur-vegetal) | Système de monitoring IoT | HTML |
 
 ---
 
